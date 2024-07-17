@@ -1,0 +1,1 @@
+This project is a Java-based desktop application designed to facilitate student access to their academic information. The application provides features for viewing grades, exam schedules, and other related information in an intuitive and user-friendly interface.
